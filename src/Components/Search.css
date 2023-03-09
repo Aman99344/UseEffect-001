@@ -1,0 +1,27 @@
+.search{
+    padding: .6rem;
+    margin: 2rem;
+}
+h1{
+    padding: 1rem;
+    color: rgb(241, 96, 56);
+}
+.search input{
+    width: 300px;
+    padding:10px;
+    font-size: 1rem;
+    outline: none;
+    border-radius: 10px;
+}
+
+.search button{
+    padding: 8px;
+    margin-left: 1rem;
+    font-size: 1rem;
+    outline: none;
+    color: black;
+    background-color: brown;
+    border-radius: 10px;
+    color: white;
+
+}
